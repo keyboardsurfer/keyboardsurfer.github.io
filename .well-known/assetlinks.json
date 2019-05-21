@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "de.keyboardsurfer.google.android.samples.dynamicapps.ondemand",
+               "sha256_cert_fingerprints": ["EB:14:BC:B1:6D:64:3D:F6:81:C1:9F:4D:4A:38:55:0A:E5:F8:60:FF:8C:D0:FA:78:A7:5C:19:15:16:EC:67:BE"] }
+}]
